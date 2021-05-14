@@ -23,7 +23,7 @@ sidebar:
 - Eg: Personalized messages for new customers
 
 #### Influencer marketing
-[[Marketing Strategies#^influencer]]
+<!-- [Marketing Strategies] {% link _marketing/Marketing-Strategies.md %}    -->
 - have to resonate with your brand and your audience.
 - Honda Jazz, MG, small business to cine ppl
 - Meme pages - Movies, stores
