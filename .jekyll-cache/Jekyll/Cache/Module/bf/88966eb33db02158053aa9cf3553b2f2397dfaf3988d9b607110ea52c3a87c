@@ -1,0 +1,33 @@
+I"½
+
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        
+          <a class="site-logo" href="/blog/"><img src="/blog/assets/images/logo.jpeg" alt="STRAY SPACES"></a>
+        
+        <a class="site-title" href="/blog/">
+          STRAY SPACES
+          <span class="site-subtitle">A space for everything that I want to share.</span>
+        </a>
+        <ul class="visible-links"><li class="masthead__menu-item">
+              <a href="https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/" title="This is a description">Quick-Start Guide</a>
+            </li><li class="masthead__menu-item">
+              <a href="">About</a>
+            </li><li class="masthead__menu-item">
+              <a href="">Sample Posts</a>
+            </li><li class="masthead__menu-item">
+              <a href="">Sitemap</a>
+            </li></ul>
+        
+        <button class="greedy-nav__toggle hidden" type="button">
+          <span class="visually-hidden">Toggle menu</span>
+          <div class="navicon"></div>
+        </button>
+        <ul class="hidden-links hidden"></ul>
+      </nav>
+    </div>
+  </div>
+</div>
+:ET
